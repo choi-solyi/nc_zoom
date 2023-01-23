@@ -1,0 +1,13 @@
+실시간 기능 구현에 대해
+
+강의 수강 전 알아야 할것
+ExpressJS, app.get(), Pug, (req, res) =>
+package.json, babel, nodemon
+.classList.add()
+
+node version 은 v14.17  이상
+
+
+npm init -y
+npm i nodemon -D
+npm i @babel/core @babel/cli @babel/node -D
