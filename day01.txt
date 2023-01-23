@@ -7,7 +7,17 @@ package.json, babel, nodemon
 
 node version 은 v14.17  이상
 
-
+# 0.2 Server Setup
+## 설치
 npm init -y
 npm i nodemon -D
 npm i @babel/core @babel/cli @babel/node -D
+npm i @babel/preset-env -D
+npm i express
+npm i pug
+
+## 파일 추가
+.gitignore
+src/server.json
+nodemon.json
+babel.config.json 
