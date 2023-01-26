@@ -11,10 +11,10 @@ node version 은 v14.17  이상
 ## 설치
 npm init -y
 npm i nodemon -D
-npm i @babel/core @babel/cli @babel/node -D
-npm i @babel/preset-env -D
+npm i @babel/core @babel/cli @babel/node @babel/preset-env -D
 npm i express
 npm i pug
+npm i ws
 
 ## 파일 추가
 .gitignore
